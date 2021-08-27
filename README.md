@@ -1,6 +1,7 @@
 # git-auto-commit
 A Simple script that will help you automate git commits
 
+```bash
 Auto Commit will help you automate the git commit add and push when files change inside a folder
 
 Options:
@@ -10,3 +11,4 @@ Options:
 
 e.g.:
 python3 auto_commit.py --file <path to folder> --find <file type> --timer <seconds>
+```
